@@ -1,3 +1,0 @@
-studysession
-============
-tatano
